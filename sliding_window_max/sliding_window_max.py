@@ -14,6 +14,8 @@ def sliding_window_max(nums, k):
 
     return output_arr
 
+# We will need to look into this further. 
+# A queue and a dequeue have been brought up as alternates.
 
 if __name__ == '__main__':
     # Use the main function here to test out your implementation 
